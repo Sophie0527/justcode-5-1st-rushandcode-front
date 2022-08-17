@@ -109,6 +109,8 @@
 |---|---|---|---|
 |`상품 리스트 API`|`회원가입&로그인 API`|`리뷰 API`|`제품 상세 API`|
 
+[‣ Back-end 더보기](https://github.com/Sophie0527/justcode-5-1st-rushandcode-back)
+
 <br/>
 
 ## Contact
